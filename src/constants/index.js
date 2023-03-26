@@ -1,5 +1,6 @@
 import {
      mobile,
+     fardtube,
      backend,
      creator,
      web,
@@ -245,7 +246,7 @@ import {
            color: "blue-text-gradient",
          },
        ],
-       image: jobit,
+       image: fardtube,
        source_code_link: "https://github.com/Muhammad-Fardin/Youtube",
        deployment_link: "https://fardtube.netlify.app"
       },
