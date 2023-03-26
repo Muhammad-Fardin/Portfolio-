@@ -228,26 +228,26 @@ import {
        deployment_link: "https://artrune.netlify.app/"
       },
      {
-       name: "Job IT",
+       name: "Youtube Clone",
        description:
-         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+         "Youtube Clone using Youtube API and Reactjs",
        tags: [
          {
            name: "react",
            color: "blue-text-gradient",
          },
          {
-           name: "restapi",
-           color: "green-text-gradient",
+           name: "youtube-api",
+           color: "pink-text-gradient",
          },
          {
-           name: "scss",
-           color: "pink-text-gradient",
+           name: "tailwind",
+           color: "blue-text-gradient",
          },
        ],
        image: jobit,
-       source_code_link: "https://github.com/",
-       deployment_link: ""
+       source_code_link: "https://github.com/Muhammad-Fardin/Youtube",
+       deployment_link: "https://fardtube.netlify.app"
       },
      {
        name: "Trip Guide",
