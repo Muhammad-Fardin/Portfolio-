@@ -251,22 +251,26 @@ import {
        deployment_link: "https://fardtube.netlify.app"
       },
      {
-       name: "Trip Guide",
+       name: "Finboard(Admin Dashboard)",
        description:
-         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+         "Dashboard with data visualisation and prediction for future revenue using ML",
        tags: [
          {
-           name: "nextjs",
-           color: "blue-text-gradient",
-         },
-         {
-           name: "supabase",
+           name: "MERN",
            color: "green-text-gradient",
          },
          {
-           name: "css",
+           name: "Material UI",
+           color: "blue-text-gradient",
+         },
+         {
+           name: "Regression",
            color: "pink-text-gradient",
          },
+         {
+          name: "Typescript",
+          color: "blue-text-gradient",
+        },
        ],
        image: tripguide,
        source_code_link: "https://github.com/",
