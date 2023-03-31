@@ -8,8 +8,6 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import fardtube from "./fardtube.png";
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -22,13 +20,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import dashboard from "./dashboard.png";
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
 import artrune from "./artrune.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import mern from './mern.png';
 import express from './express.png';
 import deploy from "./deploy.png";
@@ -46,8 +38,6 @@ export {
   menu,
   close,
   css,
-  docker,
-  figma,
   git,
   html,
   javascript,
@@ -59,12 +49,7 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
-  starbucks,
-  tesla,
   artrune,
-  jobit,
-  tripguide,
   fardtube,
   dashboard
 };
