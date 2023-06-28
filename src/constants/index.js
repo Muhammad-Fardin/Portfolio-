@@ -14,7 +14,8 @@ import {
      dashboard,
      threejs,
      mern,
-     express
+     express,
+     promptu
    } from "../assets";
    
    export const navLinks = [
@@ -201,6 +202,32 @@ import {
        source_code_link: "https://github.com/Muhammad-Fardin/Dashboard",
        deployment_link: "https://finboard.netlify.app"
       },
+      {
+        name: "Promptu",
+        description:
+          "AI Prompt Sharing Platform",
+        tags: [
+          {
+            name: "Full-Stack",
+            color: "green-text-gradient",
+          },
+          {
+            name: "NextJs",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "TailwindCss",
+            color: "blue-text-gradient",
+          },
+          {
+           name: "Typescript",
+           color: "blue-text-gradient",
+         },
+        ],
+        image: promptu,
+        source_code_link: "https://github.com/Muhammad-Fardin/Promptu",
+        deployment_link: "https://promptu.vercel.app"
+       },
    ];
    
    export { services, technologies, testimonials, projects };
