@@ -51,5 +51,6 @@ export {
   meta,
   artrune,
   fardtube,
-  dashboard
+  dashboard,
+  promptu
 };
