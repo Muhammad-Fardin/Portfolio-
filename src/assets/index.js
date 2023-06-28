@@ -24,6 +24,7 @@ import artrune from "./artrune.png";
 import mern from './mern.png';
 import express from './express.png';
 import deploy from "./deploy.png";
+import promptu from './promptu.png';
 
 export {
   logo,
